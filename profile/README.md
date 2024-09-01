@@ -1,3 +1,5 @@
+[<img src="https://byojs.github.io/logo.png" alt="BYOJS Logo" width="250">](https://byojs.github.io/logo.png)
+
 # BYOJS (Bring your own JS)
 
 This project is dedicated to promoting the practice of building web applications with JS.
