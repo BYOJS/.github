@@ -1,4 +1,4 @@
-[<img src="https://byojs.github.io/logo.png" alt="BYOJS Logo" width="250">](https://byojs.github.io/logo.png)
+[<img src="https://byojs.dev/logo.png" alt="BYOJS Logo" width="250">](https://byojs.dev/logo.png)
 
 # BYOJS (Bring your own JS)
 
