@@ -1,8 +1,10 @@
-[<img src="https://byojs.dev/logo.png" alt="BYOJS Logo" width="250">](https://byojs.dev/logo.png)
+[<img src="https://byojs.dev/logo.svg" alt="BYOJS Logo" width="250">](https://byojs.dev/logo.png)
 
 # BYOJS (Bring your own JS)
 
 This project is dedicated to promoting the practice of building web applications with JS.
+
+[![npm org packages: @byojs](https://img.shields.io/badge/npm%20org%20packages-@byojs-4ec920)](https://npmjs.com/org/byojs)
 
 No disrespect to the extremely common approaches involving various frameworks -- which are increasingly becoming their own DSLs, even with their own compilers! -- and also no disrespect for those who like JS-looking languages like TypeScript... but it feels like a lost art to build effective web applications using the core JS language.
 
@@ -14,6 +16,6 @@ A guiding principle here is: always choose the least-powerful tool to get a task
 
 ## License
 
-[![License](https://img.shields.io/badge/license-MIT-a1356a)](LICENSE.txt)
+[![License](https://img.shields.io/badge/license-MIT-a1356a)](https://byojs.dev/LICENSE.txt)
 
 All code and documentation are (c) 2024 Kyle Simpson and released under the [MIT License](http://getify.mit-license.org/). A copy of the MIT License [is also included](https://byojs.dev/LICENSE.txt).
