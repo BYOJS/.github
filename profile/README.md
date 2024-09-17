@@ -4,7 +4,7 @@
 
 This project is dedicated to promoting the practice of building web applications with JS.
 
-[![npm org packages: @byojs](https://img.shields.io/badge/npm%20org%20packages-@byojs-4ec920)](https://npmjs.com/org/byojs)
+[![npm org packages: @byojs](https://img.shields.io/badge/npm_org_packages-@byojs-bbffa3?logo=npm)](https://npmjs.com/org/byojs)
 
 No disrespect to the extremely common approaches involving various frameworks -- which are increasingly becoming their own DSLs, even with their own compilers! -- and also no disrespect for those who like JS-looking languages like TypeScript... but it feels like a lost art to build effective web applications using the core JS language.
 
